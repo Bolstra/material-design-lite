@@ -587,6 +587,31 @@ $palette-blue-grey-700: nth($palette-blue-grey, 8);
 $palette-blue-grey-800: nth($palette-blue-grey, 9);
 $palette-blue-grey-900: nth($palette-blue-grey, 10);
 
+$palette-bolstra-green:
+"209,237,191"
+"167,220,132"
+"135,208,88"
+"99,175,50"
+"86,151,43"
+"72,127,36"
+"58,103,29"
+"45,79,22"
+"31,55,16"
+"18,32,9";
+
+$palette-bolstra-green-50: nth($palette-bolstra-green, 1);
+$palette-bolstra-green-100: nth($palette-bolstra-green, 2);
+$palette-bolstra-green-200: nth($palette-bolstra-green, 3);
+$palette-bolstra-green-300: nth($palette-bolstra-green, 4);
+$palette-bolstra-green-400: nth($palette-bolstra-green, 5);
+$palette-bolstra-green-500: nth($palette-bolstra-green, 6);
+$palette-bolstra-green-600: nth($palette-bolstra-green, 7);
+$palette-bolstra-green-700: nth($palette-bolstra-green, 8);
+$palette-bolstra-green-800: nth($palette-bolstra-green, 9);
+$palette-bolstra-green-900: nth($palette-bolstra-green, 10);
+
+
+
 $color-black: "0,0,0";
 $color-white: "255,255,255";
 
